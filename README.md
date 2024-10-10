@@ -1,6 +1,7 @@
 ![image](https://github.com/Pratikshathorat96/Adverse-Event_Tableau/assets/120496034/5901b597-dbca-46f3-a88e-87b07d22a583)
 
 # Travel, Food & Beverages Industry
+## Dashboard - https://drive.google.com/file/d/1V3pPmUVvpb7WU-gpWjJvBiMNhTBX1LwK/view?usp=sharing
 
 ### **A Case Study on Adverse Event Reporting in the Food and Cosmetics Industry**
 
